@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GreeterClient/GreeterClient.vcxproj" />
+  <Project Path="GreeterStaticLib/GreeterStaticLib.vcxproj" />
+</Solution>
