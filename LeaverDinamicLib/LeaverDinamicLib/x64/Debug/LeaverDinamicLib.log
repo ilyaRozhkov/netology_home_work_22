@@ -1,0 +1,7 @@
+﻿  Leaver.cpp
+I:\Нетология\Домашние задания\Библиотеки\LeaverDinamicLib\LeaverDinamicLib\Leaver.cpp(3,21): warning C4273: Leaver::leave: несовместимое связывание dll
+      I:\Нетология\Домашние задания\Библиотеки\LeaverDinamicLib\LeaverDinamicLib\Leaver.h(16,17):
+      см. предыдущее определение "Leaver::leave"
+  
+     Создается библиотека I:\Нетология\Домашние задания\Библиотеки\LeaverDinamicLib\x64\Debug\LeaverDinamicLib.lib и объект I:\Нетология\Домашние задания\Библиотеки\LeaverDinamicLib\x64\Debug\LeaverDinamicLib.exp
+  LeaverDinamicLib.vcxproj -> I:\Нетология\Домашние задания\Библиотеки\LeaverDinamicLib\x64\Debug\LeaverDinamicLib.dll
